@@ -1,4 +1,4 @@
-libdir := /usr/lib/arm-linux-gnueabihf
+libdir := /usr/lib/aarch64-linux-gnu
 includedir := /usr/include
 pkgconfigdir := $(libdir)/pkgconfig
 
