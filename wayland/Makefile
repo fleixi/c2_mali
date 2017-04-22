@@ -1,4 +1,4 @@
-libdir := ${D}/usr/lib
+libdir := ${D}/usr/lib/opengl/mali
 includedir := ${D}/usr/include
 pkgconfigdir := $(libdir)/pkgconfig
 
