@@ -1,6 +1,6 @@
 libdir := ${D}/usr/lib/opengl/mali
 includedir := ${D}/usr/include
-pkgconfigdir := $(libdir)/pkgconfig
+pkgconfigdir := ${D}/usr/lib/pkgconfig
 
 install:
 	# Mali Binaries
