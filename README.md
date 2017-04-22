@@ -9,7 +9,7 @@ This End User License Agreement (this “Agreement”) is a legal agreement conc
 
 2.	License
 
-2.1	Hardkernel hereby grants Licensee a limited, non-exclusive, non-transferable, irrevocable, restricted right to use the Software in object code form only on the Computer System solely for the purpose of developing application software for Hardkernel ODROID-C2 Single Board Computer.
+2.1	Hardkernel hereby grants Licensee a limited, non-exclusive, non-transferable, irrevocable, restricted right to use the Software in object code form only on the Computer System solely for the purpose of developing application software for Hardkernel ODROID-XU4 Single Board Computer.
 
 2.2	The Software except as permitted elsewhere in the Agreement, the rights granted to you above are conditional upon your compliance with the following obligation:
 
